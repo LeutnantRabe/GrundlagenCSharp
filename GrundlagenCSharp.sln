@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1SyntaxCSharp", "1SyntaxCSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAS-AusgabeEingabe", "SAS-AusgabeEingabe\SAS-AusgabeEingabe.csproj", "{CC6B0EC2-5198-47C5-93C7-C4B28FF9A87F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAS-AusgabeEingabe2", "SAS-AusgabeEingabe2\SAS-AusgabeEingabe2.csproj", "{5460D18D-7FE5-4D89-BE95-5E5ECFC24B1B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CC6B0EC2-5198-47C5-93C7-C4B28FF9A87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC6B0EC2-5198-47C5-93C7-C4B28FF9A87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC6B0EC2-5198-47C5-93C7-C4B28FF9A87F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5460D18D-7FE5-4D89-BE95-5E5ECFC24B1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5460D18D-7FE5-4D89-BE95-5E5ECFC24B1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5460D18D-7FE5-4D89-BE95-5E5ECFC24B1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5460D18D-7FE5-4D89-BE95-5E5ECFC24B1B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
