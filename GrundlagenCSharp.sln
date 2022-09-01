@@ -5,6 +5,8 @@ VisualStudioVersion = 17.1.32414.318
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1SyntaxCSharp", "1SyntaxCSharp\1SyntaxCSharp.csproj", "{0F2DDEA1-D0C3-4641-908D-7FEA5339BA7A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAS-AusgabeEingabe", "SAS-AusgabeEingabe\SAS-AusgabeEingabe.csproj", "{CC6B0EC2-5198-47C5-93C7-C4B28FF9A87F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0F2DDEA1-D0C3-4641-908D-7FEA5339BA7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F2DDEA1-D0C3-4641-908D-7FEA5339BA7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F2DDEA1-D0C3-4641-908D-7FEA5339BA7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC6B0EC2-5198-47C5-93C7-C4B28FF9A87F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC6B0EC2-5198-47C5-93C7-C4B28FF9A87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC6B0EC2-5198-47C5-93C7-C4B28FF9A87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC6B0EC2-5198-47C5-93C7-C4B28FF9A87F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
