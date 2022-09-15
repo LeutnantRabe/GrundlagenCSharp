@@ -15,12 +15,13 @@ Console.WriteLine(int.MinValue);
 -2147483648
 */
 
-
+Console.WriteLine(long.MaxValue);
+Console.WriteLine(long MinValue);
 //Aufgabe 2
 
 string vorname = "Nicolai";
-string alter = "16";
-string frage = "true";
+short alter = "16";
+bool frage = "true";
 
 Console.WriteLine("Ich stelle Ihnen Jetzt ein paar Fragen");
 Console.WriteLine("");
@@ -37,15 +38,14 @@ Console.WriteLine($"1. {vorname}\n2. {alter}\n3. {frage}");
 
 
 //Aufgabe 3
-/*
   int Dollarzahl = 36;
-  char Dollar = Dollarzahl
-  */
+  char Dollar = (char)Dollarzahl;
 
 
 //Aufagbe 4
 Console.WriteLine("Geben Sie die ertste Variable ein!");
 string v1_str = Console.ReadLine();
-
 short v1_short = Convert.ToInt16(v1_str);
-Console.WriteLine(v1_short);
+
+string v2_str = Console.ReadLine();
+double v2_double = Convert.ToDouble(v2_str);
